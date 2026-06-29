@@ -2,7 +2,7 @@ Corvid skies is a Minecraft (java edition) mod ment to add simple wings to the g
 
 ---------------------------------
 # Contributors:
-
+ - GamerWierdo (Lttrly did everything y'all let's be honest)
  - File (Lead developer, Modeler),  
  - Roman (Contributor, Modeler),
  - August (Contributor)
